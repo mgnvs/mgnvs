@@ -1,6 +1,6 @@
 ### Hello World! Eu sou o João Assis 👋
 
-# 💫 About Me:
+# 💫 Sobre mim:
 🔭 Trabalhando como Suporte<br>🌱 Aprendendo Java , Python, SQL e Pandas/Numpy<br>💬 Perfil focado em estudos<br>
 
 
